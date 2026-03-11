@@ -1,0 +1,16 @@
+# SaaSCalc
+
+> SaaSCalc is a Semantic SaaS Unit Economics Calculator Engine for founders and investors to compute and benchmark LTV and CAC dynamically.
+
+## Main Tools
+- [SaaS LTV & CAC Calculator](/)
+
+## Core Concepts
+- LTV (Customer Lifetime Value)
+- CAC (Customer Acquisition Cost)
+- ARPU (Average Revenue Per User)
+
+## Contact
+- Website: https://hero-tool-mvp.vercel.app
+- Email: contact@saascalc.com
+
